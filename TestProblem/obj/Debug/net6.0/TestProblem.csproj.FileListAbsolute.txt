@@ -1,0 +1,15 @@
+C:\Users\Vilian\source\repos\TestProblem\TestProblem\bin\Debug\net6.0\TestProblem.exe
+C:\Users\Vilian\source\repos\TestProblem\TestProblem\bin\Debug\net6.0\TestProblem.deps.json
+C:\Users\Vilian\source\repos\TestProblem\TestProblem\bin\Debug\net6.0\TestProblem.runtimeconfig.json
+C:\Users\Vilian\source\repos\TestProblem\TestProblem\bin\Debug\net6.0\TestProblem.dll
+C:\Users\Vilian\source\repos\TestProblem\TestProblem\bin\Debug\net6.0\ref\TestProblem.dll
+C:\Users\Vilian\source\repos\TestProblem\TestProblem\bin\Debug\net6.0\TestProblem.pdb
+C:\Users\Vilian\source\repos\TestProblem\TestProblem\obj\Debug\net6.0\TestProblem.csproj.AssemblyReference.cache
+C:\Users\Vilian\source\repos\TestProblem\TestProblem\obj\Debug\net6.0\TestProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vilian\source\repos\TestProblem\TestProblem\obj\Debug\net6.0\TestProblem.AssemblyInfoInputs.cache
+C:\Users\Vilian\source\repos\TestProblem\TestProblem\obj\Debug\net6.0\TestProblem.AssemblyInfo.cs
+C:\Users\Vilian\source\repos\TestProblem\TestProblem\obj\Debug\net6.0\TestProblem.csproj.CoreCompileInputs.cache
+C:\Users\Vilian\source\repos\TestProblem\TestProblem\obj\Debug\net6.0\TestProblem.dll
+C:\Users\Vilian\source\repos\TestProblem\TestProblem\obj\Debug\net6.0\ref\TestProblem.dll
+C:\Users\Vilian\source\repos\TestProblem\TestProblem\obj\Debug\net6.0\TestProblem.pdb
+C:\Users\Vilian\source\repos\TestProblem\TestProblem\obj\Debug\net6.0\TestProblem.genruntimeconfig.cache
